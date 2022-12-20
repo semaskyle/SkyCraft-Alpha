@@ -14,4 +14,4 @@ Mod changes:
 File Changes: 
  
   -TexturePacks
-    -Add: *Faithful x32; Faithful-Skycraft_ed x32; Faithful addons.*
+    -Add: *Faithful x32; Faithful addons.*
