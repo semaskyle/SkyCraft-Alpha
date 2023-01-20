@@ -1,17 +1,12 @@
 # SkyCraft Alpha Update list
 
-20 Dec 2022.
+20 Jan 2023.
 
-Build 202205
+Build 2001
 
 Changes:
 Mod changes:
 
-  -Add mods: *EnchantingPlus; ToughnessBar; AdvancementBook; bdlib; ae2stuff; MalisisDoors; Better Builder’s Wands; MalisisCore; BookShelf.*
+  -Add mods: *-*
 
-  -Delited mods: *MCW-Furniture*
-
-File Changes: 
- 
-  -TexturePacks
-    -Add: *Faithful x32.*
+  -Delited mods: *-*
