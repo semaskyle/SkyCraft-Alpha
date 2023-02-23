@@ -23,6 +23,6 @@ HDD/SSD: 4-6 GB на диске
 
 Полезные ссылки:
 
-*Ссылка на VK: ***https://vk.com/skycrafted***
+Ссылка на VK: ***https://vk.com/skycrafted***
 
-*Ссылка на скачивание: ***https://mega.nz/folder/VMASyLwZ#B0_Avu6CuEs5EL21GSwdtw***
+Ссылка на скачивание: ***https://mega.nz/folder/VMASyLwZ#B0_Avu6CuEs5EL21GSwdtw***
