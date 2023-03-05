@@ -3,10 +3,10 @@
 
 О проекте:
 
-SkyCraft - это сборка Minecraft 1.12.2, в котором насчитывается ***273*** мода! 
+SkyCraft - это сборка Minecraft 1.12.2, в котором насчитывается ***250+*** модов! 
 Тематика сервера - Hitech-Magic-Space
 
-Версия сборки: 1977 DEV-BUILD
+Версия сборки: 2100 DEV-BUILD
 
 # Системные требования:
 
@@ -26,3 +26,5 @@ HDD/SSD: 10 GB на диске
 Ссылка на VK: ***https://vk.com/skycrafted***
 
 Ссылка на скачивание: ***https://mega.nz/folder/VMASyLwZ#B0_Avu6CuEs5EL21GSwdtw***
+
+Ссылка на страницу обновлений: ***https://github.com/semaskyle/skycraft-patchnote***
