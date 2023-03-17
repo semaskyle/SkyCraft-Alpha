@@ -28,3 +28,5 @@ HDD/SSD: 5 GB на диске
 Ссылка на скачивание: ***https://mega.nz/folder/VMASyLwZ#B0_Avu6CuEs5EL21GSwdtw***
 
 Ссылка на страницу обновлений: ***https://github.com/semaskyle/skycraft-patchnote***
+
+Ссылка на CurseForge: ***https://www.curseforge.com/minecraft/modpacks/skycrafted***
